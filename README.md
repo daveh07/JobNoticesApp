@@ -24,7 +24,4 @@ https://user-images.githubusercontent.com/51868751/132126333-cd4ce035-8a27-4b55-
 ![image](https://user-images.githubusercontent.com/51868751/132125468-f7863cb7-25ad-455d-8c3b-e6a1c190343d.png)
 
 
-### Firebase Password Reset:
-![image](https://user-images.githubusercontent.com/51868751/132125920-2e4dc1be-02af-42b5-b2dd-a99cb1c694ad.png)
-
 
