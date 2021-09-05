@@ -13,7 +13,7 @@ Users viewing the app will be able to create accounts and interact with the card
 <li>Creating a sign up view with user Authentication with Google Firebase</li>
 <li>Creating a home page view and implementing scroll tabs and log out button with functionality</li>
 <li>Creating alerts for password reset and email validation</li>
-<li>Arranging UI elements with ZStacks, HStacks, & VStacks</li>
+<li>Arranging UI elements with ZStacks, HStacks & VStacks</li>
 
 
 ### Demo of App in Development:
