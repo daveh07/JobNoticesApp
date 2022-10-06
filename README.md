@@ -1,10 +1,8 @@
 # JobNoticesApp
-An iOS App written in SwiftUI 
+An iOS App written in SwiftUI to learn authentication and Firebase.
 
 ### Introduction
-The App is currently still being developed. The goal of the app is to create a notice board and alert cards for users. An admin account will also be added which will allow the admin user to post, edit and delete notices. 
-
-Users viewing the app will be able to create accounts and interact with the cards created by the admin.
+The App is a mock example of a login page for a job notices app. The aim was to learn to create an authentication and login screen using SwiftUI and Firebase. 
 
 
 ### What I Learned
